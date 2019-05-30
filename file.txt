@@ -3,3 +3,4 @@
 "Paris is the capital of France" 
 =======
 >>>>>>> parent of 40a8482... Moscov and London Capital added
+"Minsk is the capital of Belarus" "Worsow is the capital of Pouland" 
